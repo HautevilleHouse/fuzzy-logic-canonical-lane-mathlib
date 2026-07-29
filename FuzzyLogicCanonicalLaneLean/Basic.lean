@@ -1,0 +1,2 @@
+import FuzzyLogicCanonicalLaneLean.GateLemmas
+import FuzzyLogicCanonicalLaneLean.FinalTheorem
